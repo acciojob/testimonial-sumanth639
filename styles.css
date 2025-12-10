@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.testimonial-section {
+  padding: 40px;
+  background-color: #f5f5f5;
+}
+
+.testimonial-section h2 {
+  margin-bottom: 25px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.testimonial-box {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 25px;
+  margin-bottom: 20px;
+}
+
+
+.author {
+  text-align: right;
+  font-style: italic;
+  margin-top: 10px;
+}
