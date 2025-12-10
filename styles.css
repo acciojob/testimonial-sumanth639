@@ -2,6 +2,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
 }
 
 .testimonial-section {
@@ -18,7 +19,7 @@ body {
 .testimonial-box {
   background-color: white;
   border: 1px solid #ddd;
-  padding: 25px;
+  padding: 12px;
   margin-bottom: 20px;
 }
 
@@ -26,5 +27,5 @@ body {
 .author {
   text-align: right;
   font-style: italic;
-  margin-top: 10px;
+  
 }
